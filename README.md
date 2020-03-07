@@ -8,5 +8,7 @@ C </a></li>
 Java </a></li>  
    <li><a target="_blank" href="https://github.com/manjunath5496/SQL-Tutorial/blob/master/README.md" style="text-decoration:none;">
 SQL</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/README.md" style="text-decoration:none;">
+Python</a></li>
  
 </ul>
