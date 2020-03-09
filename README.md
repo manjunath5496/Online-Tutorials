@@ -10,5 +10,6 @@ Java </a></li>
 SQL</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/README.md" style="text-decoration:none;">
 Python</a></li>
- 
+   <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Tutorial/blob/master/README.md" style="text-decoration:none;">
+PHP </a></li>
 </ul>
