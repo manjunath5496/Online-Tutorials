@@ -14,5 +14,6 @@ Python</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Tutorial/blob/master/README.md" style="text-decoration:none;">
 PHP </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/jQuery-Tutorial/blob/master/README.md" style="text-decoration:none;">
-jQuery </a></li> 
+jQuery </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/README.md" style="text-decoration:none;">Linux </a></li>
 </ul>
