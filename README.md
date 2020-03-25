@@ -17,4 +17,10 @@ PHP </a></li>
 jQuery </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Machine-Learning-Tutorial/blob/master/README.md" style="text-decoration:none;"> Machine Learning</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Linux-Tutorial/blob/master/README.md" style="text-decoration:none;">Linux </a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/README.md" style="text-decoration:none;">Physics</a></li>
+ 
+ 
+ 
+ 
 </ul>
