@@ -21,6 +21,6 @@ jQuery </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Tutorial/blob/master/README.md" style="text-decoration:none;">Physics</a></li>
  
  
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/README.md" style="text-decoration:none;">Chemistry</a></li>
  
 </ul>
