@@ -24,3 +24,24 @@ jQuery </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Chemistry-Tutorial/blob/master/README.md" style="text-decoration:none;">Chemistry</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Biology-Tutorial/blob/master/README.md" style="text-decoration:none;">Biology</a></li>  
 </ul>
+</br>
+<h2>8 Fiction Books For Linux and Open Source Fans </h2>
+
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/mi(1).pdf" style="text-decoration:none;">Cryptonomicon</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/mi(2).pdf" style="text-decoration:none;">Microserfs</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/mi(3).pdf" style="text-decoration:none;">The Tao of Pooh</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/mi(4).pdf" style="text-decoration:none;">The Golem and the Jinni</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/mi(5).pdf" style="text-decoration:none;">The Rise of the Meritocracy</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/mi(6).pdf" style="text-decoration:none;">Throne of the Crescent Moon </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/mi(7).pdf" style="text-decoration:none;">Walkaway</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/mi(8).pdf" style="text-decoration:none;"> Who Moved My Cheese? </a></li>
+   </ul>
