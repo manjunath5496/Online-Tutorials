@@ -47,6 +47,8 @@ jQuery </a></li>
    </ul>
    
    </br>
+   
+   <h2> Don't guess where your skills stand </h2>
   <ul> 
     <li><a target="_blank" href="https://manjunath5496.github.io/qz/index.html" style="text-decoration:none;">Take a free assessment to get your Skill IQ today</a></li>  
 </ul>
