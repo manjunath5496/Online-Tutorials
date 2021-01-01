@@ -45,3 +45,11 @@ jQuery </a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/mi(8).pdf" style="text-decoration:none;"> Who Moved My Cheese? </a></li>
    </ul>
+   
+   </br>
+  <ul> 
+    <li><a target="_blank" href="https://manjunath5496.github.io/qz/index.html" style="text-decoration:none;">Take a free assessment to get your Skill IQ today</a></li>  
+</ul>
+   
+   
+   
