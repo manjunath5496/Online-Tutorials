@@ -250,3 +250,20 @@ jQuery </a></li>
 </ul>
 <p>&nbsp;</p>
 
+<h2>Public Domain Books </h2>
+
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pub(1).pdf" style="text-decoration:none;">An Inquiry into the Nature and Causes of the Wealth of Nations</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pub(2).pdf" style="text-decoration:none;">Mysticism and Logic and Other Essays</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pub(3).pdf" style="text-decoration:none;">On the Origin of Species</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pub(4).pdf" style="text-decoration:none;">Flatland: A Romance of Many Dimensions</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pub(5).pdf" style="text-decoration:none;">Eugenics and Other Evils</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pub(6).pdf" style="text-decoration:none;">The Einstein Theory of Relativity</a></li>
+ </ul>
