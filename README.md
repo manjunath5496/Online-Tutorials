@@ -375,4 +375,43 @@ as Implicit Matrix Factorization</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pub(4).pdf" style="text-decoration:none;">Flatland: A Romance of Many Dimensions</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pub(5).pdf" style="text-decoration:none;">Eugenics and Other Evils</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pub(6).pdf" style="text-decoration:none;">The Einstein Theory of Relativity</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(1).pdf" style="text-decoration:none;">The Murder on the Links:
+A Hercule Poirot Mystery</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(2).pdf" style="text-decoration:none;">The prospects of industrial civilization</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(3).pdf" style="text-decoration:none;">Antic Hay</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(4).pdf" style="text-decoration:none;">Twenty Years After</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(5).pdf" style="text-decoration:none;">An Antarctic Mystery</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(6).pdf" style="text-decoration:none;">THE PROPHET</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(7).pdf" style="text-decoration:none;">War and Peace</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(8).pdf" style="text-decoration:none;"> Jacob's Room </a></li>
+  
+
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(9).pdf" style="text-decoration:none;">The Most Dangerous Game</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(10).pdf" style="text-decoration:none;">Tarzan and the Golden Lion</a></li>                              
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(11).pdf" style="text-decoration:none;">Kangaroo</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(12).pdf" style="text-decoration:none;">Rootabaga Stories</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(13).pdf" style="text-decoration:none;">The
+Inimitable Jeeves</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(14).pdf" style="text-decoration:none;">A Son at the Front</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(15).pdf" style="text-decoration:none;">The World Crisis, Volume I (of VI)</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(16).pdf" style="text-decoration:none;">An American Tragedy</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/pd(17).pdf" style="text-decoration:none;">The Waves</a></li>   
+  
+
+
+
  </ul>
