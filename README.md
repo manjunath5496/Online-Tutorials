@@ -311,6 +311,54 @@ jQuery </a></li>
 </table>
 <p>&nbsp;</p>
 
+<h2>ML Readings </h2>
+
+
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(1).pdf" style="text-decoration:none;">Multilingual Models for Compositional Distributed Semantics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(2).pdf" style="text-decoration:none;">Show, Attend and Tell: Neural Image Caption
+Generation with Visual Attention</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(3).pdf" style="text-decoration:none;">Natural Language Processing (Almost) from Scratch</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(4).pdf" style="text-decoration:none;">Recurrent Continuous Translation Models</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(5).pdf" style="text-decoration:none;">Persistent RNNs: Stashing Recurrent Weights On-Chip</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(6).pdf" style="text-decoration:none;">Studies in Linguistic Analysis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(7).pdf" style="text-decoration:none;">From Distributional to Semantic Similarity</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(8).pdf" style="text-decoration:none;"> Multimodal Neural Language Models </a></li>
+  
+
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(9).pdf" style="text-decoration:none;">Two/Too Simple Adaptations of Word2Vec for Syntax Problems</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(10).pdf" style="text-decoration:none;">A fast and simple algorithm for training neural probabilistic language models</a></li>                              
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(11).pdf" style="text-decoration:none;">NeuralWord Embedding
+as Implicit Matrix Factorization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(12).pdf" style="text-decoration:none;">A Scalable Hierarchical Distributed Language Model</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(13).pdf" style="text-decoration:none;">Distributed Representations ofWords and Phrases and their Compositionality</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(14).pdf" style="text-decoration:none;">BLEU: a Method for Automatic Evaluation of Machine Translation</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(15).pdf" style="text-decoration:none;">On the difficulty of training recurrent neural networks</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(16).pdf" style="text-decoration:none;">Semantic Compositionality through Recursive Matrix-Vector Spaces</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(17).pdf" style="text-decoration:none;">Visualizing Data using t-SNE</a></li>   
+  
+</ul>
+
+
+</br>
+
+
 <h2>Public Domain Books </h2>
 
 
