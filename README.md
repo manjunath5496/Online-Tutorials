@@ -352,7 +352,59 @@ as Implicit Matrix Factorization</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(16).pdf" style="text-decoration:none;">Semantic Compositionality through Recursive Matrix-Vector Spaces</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(17).pdf" style="text-decoration:none;">Visualizing Data using t-SNE</a></li>   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(18).pdf" style="text-decoration:none;">Markov logic networks</a></li> 
+
   
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(19).pdf" style="text-decoration:none;">Extremely randomized trees</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(20).pdf" style="text-decoration:none;">The max-min hill-climbing Bayesian network
+structure learning algorithm</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(21).pdf" style="text-decoration:none;">Reducing the Dimensionality of
+Data with Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(22).pdf" style="text-decoration:none;">Extreme learning machine: Theory and applications</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(23).pdf" style="text-decoration:none;">The DLV System for Knowledge Representation
+and Reasoning</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(24).pdf" style="text-decoration:none;">A GA-based feature selection and parameters optimization for support vector machines</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(25).pdf" style="text-decoration:none;">A Fast and Accurate Online Sequential Learning Algorithm for Feedforward Networks</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(26).pdf" style="text-decoration:none;">Polychronization: Computation with Spikes</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(27).pdf" style="text-decoration:none;">On computable numbers, with an application to the Entscheidungsproblem</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(28).pdf" style="text-decoration:none;">Learning to Predict by the Methods
+of Temporal Differences</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(29).pdf" style="text-decoration:none;">Computing Machinery and Intelligence </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(30).pdf" style="text-decoration:none;">A logical calculus of the ideas immanent in nervous activity</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(31).pdf" style="text-decoration:none;">What the Frog's Eye Tells the Frog's Brain</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(32).pdf" style="text-decoration:none;">Steps Toward Artificial Intelligence</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(33).pdf" style="text-decoration:none;">Why Should Machines Learn?</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(34).pdf" style="text-decoration:none;">A Theory of the Learnable</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(35).pdf" style="text-decoration:none;">Intelligence without representation</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(36).pdf" style="text-decoration:none;">Natural Gradient Works Efficiently in Learning</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(37).pdf" style="text-decoration:none;">A Neural Substrate of
+Prediction and Reward</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(38).pdf" style="text-decoration:none;">Distributed Optimization and Statistical
+Learning via the Alternating Direction Method of Multipliers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(39).pdf" style="text-decoration:none;">The Code for Facial Identity in the Primate Brain</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(40).pdf" style="text-decoration:none;">Learning Deep Architectures for AI</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(41).pdf" style="text-decoration:none;">On Convergence of some Gradient-based Temporal-Differences Algorithms for Off-Policy Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Online-Tutorials/blob/master/ab(42).pdf" style="text-decoration:none;">Theoretical Impediments to Machine Learning
+With Seven Sparks from the Causal Revolution</a></li>
+ 
+ 
+ 
 </ul>
 
 
